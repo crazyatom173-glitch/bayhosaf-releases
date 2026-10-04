@@ -1,0 +1,12 @@
+﻿{
+    "changelog":  [
+                      "Turnuva ve agresif hazir ayarlar guncellendi",
+                      "Web Radar entegrasyonu saglandi",
+                      "OTA otomatik guncelleme altyapisi aktif edildi"
+                  ],
+    "version":  "v5.2.5",
+    "dll_url":  "https://raw.githubusercontent.com/crazyatom173-glitch/bayhosaf-releases/main/BayHosaf_k5.dll",
+    "mandatory":  true,
+    "title":  "BayHosaf VIP v5.2.5",
+    "dll_sha256":  "934f3814e864f3e3d29f08fd6a2682fbfa57560bba5229efb9bc8104296b7550"
+}
