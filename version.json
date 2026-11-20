@@ -1,12 +1,25 @@
-﻿{
-    "changelog":  [
-                      "Turnuva ve agresif hazir ayarlar guncellendi",
-                      "Web Radar entegrasyonu saglandi",
-                      "OTA otomatik guncelleme altyapisi aktif edildi"
-                  ],
-    "version":  "v5.2.5",
-    "dll_url":  "https://raw.githubusercontent.com/crazyatom173-glitch/bayhosaf-releases/main/BayHosaf_k5.dll",
-    "mandatory":  true,
-    "title":  "BayHosaf VIP v5.2.5",
-    "dll_sha256":  "934f3814e864f3e3d29f08fd6a2682fbfa57560bba5229efb9bc8104296b7550"
+{
+  "assets_sha256": "b3392cc126cfd7ab71deaaa01f04acecaace8ac370a145cb7ddaea1a52bb81a6",
+  "assets_url": "https://files.catbox.moe/744ozs.pak",
+  "assets_url2": "",
+  "changelog": "v11.10.3 GitHub Release kanali aktif - launcher updater otomatik self-update",
+  "content_sha256": "d40bf242be75a0769df79c8743ff1b3a2b35c8cc492b9d35fcd8aea53b4440d9",
+  "content_url": "https://files.catbox.moe/lx1k2g.bhp",
+  "content_url2": "",
+  "dll_sha256": "75d7da0925a4330e45713ad5246f4200469e60180a557aa74acacdd650d9a85b",
+  "dll_url": "https://files.catbox.moe/41c8zl.dll",
+  "dll_url2": "",
+  "mandatory": false,
+  "offsets_sha256": "d645d067931ec8eb22be7e3179bf6538b676146786cdbc1865aff6fe05e35a4e",
+  "offsets_url": "https://files.catbox.moe/vanyuw.json",
+  "offsets_url2": "https://raw.githubusercontent.com/a2x/cs2-dumper/main/output/offsets.json",
+  "published_at": "2026-11-20T23:51:37Z",
+  "schema": 3,
+  "version": "v11.10.3",
+  "launcher_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.10.3/BayHosaf_Launcher.exe",
+  "launcher_url2": "",
+  "launcher_sha256": "a444aad3baad18708fdd2304a5147eaab11e93368c1128743220aefc28138266",
+  "updater_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.10.3/BayHosaf_Updater.exe",
+  "updater_url2": "",
+  "updater_sha256": "ce45264949a1bd3186a37f0540e55ae373eea715ee128d57658a09ab8b605392"
 }
