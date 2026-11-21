@@ -2,7 +2,7 @@
   "assets_sha256": "fca5cf6f1db7446bccf697677bfa1c9fed34cbad380e3502028fb882f156243b",
   "assets_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.13.0/assets.pak",
   "assets_url2": "https://files.catbox.moe/0kvrpz.pak",
-  "changelog": "- Insert menusu buyutme/kucultme eklendi: ust bar [- | % | +] butonlari, sag-alt koseden surukleyerek boyutlandirma, Ctrl +/-/0 kisayollari ve %175 maksimum olcek\n- OpenCode HY4Flash otonom gelistirme & yayin ana kilavuzu (OPENCODE_MASTER_PROMPT.md) eklendi",
+  "changelog": "- Insert menusu buyutme/kucultme eklendi: ust bar [- | % | +] butonlari, sag-alt koseden surukleyerek boyutlandirma, Ctrl +/-/0 kisayollari ve %175 maksimum olcek\n- OpenCode HY4Flash sinirsiz otonom gelistirme & zorunlu OTA yayin ana kilavuzu (OPENCODE_MASTER_PROMPT.md) eklendi",
   "content_sha256": "d40bf242be75a0769df79c8743ff1b3a2b35c8cc492b9d35fcd8aea53b4440d9",
   "content_url": "https://files.catbox.moe/lx1k2g.bhp",
   "content_url2": "",
@@ -17,11 +17,11 @@
   "offsets_sha256": "d645d067931ec8eb22be7e3179bf6538b676146786cdbc1865aff6fe05e35a4e",
   "offsets_url": "https://files.catbox.moe/vanyuw.json",
   "offsets_url2": "https://raw.githubusercontent.com/a2x/cs2-dumper/main/output/offsets.json",
-  "published_at": "2026-11-21T22:47:39Z",
+  "published_at": "2026-11-21T22:50:10Z",
   "schema": 3,
-  "sig": "b52301d34ce2e81a4a4d58691078edd89387bbbc56e71a138d84cce9ca6c582ec43add21ef6343417ce4ea2c15b12a336e423742d3e0bd64c91d8b0b504747f8c35e7d765dc3255ae757771972a934aa7fd7670652361b371290bfbb3a762fcf3f716b486766891344494a42514dec029de7a5755e5b1a9e01defe25d94541ec2ced60bb9177d967c3b9e5dc983cd523a7bb9dc4d442fc5db75fa8dd2e20dc58855d9b55fbbe7995227f41080c3f4ef6504e5cc642f8a99d53c32a00f5f70129fa5d9c73c5b14afda1a20c5c9eaf80d2d608413c770438cc28a81f525bacffd3f533590d9e312dfa657bcea23b13abc37eb49d063910f654b8916cb0ba1e3931",
+  "sig": "346d74046474583c7e69a2567ba35cf539ac17c62b4388c6453b6bc576e5ae8c7e9a4df88a4dab4d1daf52924c4f6806376b3f54bcabd525897e57cc9a6f841708c715c5d402172fec571a54d66d0859857cfcd7a648ea1087579a023c4b8ee1811035c99f1eab721609095984e6fb95f44930deb7e600baeefb7f7d836af8dd208c80deb128a141e058da7ba6f005a58c12d8df0cd784f86091bcdb1a7b43ff1486e3b1bd09fba83b865820b2b4e37e0882bbc983fad552dd72aa7749b717ed8c2d72453b77caadba92d90d586ec91cac818e851ce1ae5f8fddb37574d18db997f150f1b1fde05d633f086ffd05d34f4d6abbf262d927b0f6114d832791ba7f",
   "updater_sha256": "ce45264949a1bd3186a37f0540e55ae373eea715ee128d57658a09ab8b605392",
   "updater_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.10.3/BayHosaf_Updater.exe",
   "updater_url2": "",
-  "version": "v11.14.8"
+  "version": "v11.14.9"
 }
