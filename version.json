@@ -2,7 +2,7 @@
   "assets_sha256": "fca5cf6f1db7446bccf697677bfa1c9fed34cbad380e3502028fb882f156243b",
   "assets_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.17.0/assets.pak",
   "assets_url2": "https://files.catbox.moe/0kvrpz.pak",
-  "changelog": "v11.23.3 — Çökme kanıtı ve otomatik rapor sistemi\n- Çökmelerde geçerli minidump yazılır (0 KB sorunu bitti)\n- Çökme anında exception ve konum kanıtı kaydedilir\n- Raporlar sonraki girişte otomatik gönderilir\n- Sürüm notları launcher'da otomatik güncellenir\n- Kararlılık ve bütünlük denetimleri güçlendirildi",
+  "changelog": "v11.23.7 — Çökme kanıtı ve otomatik rapor sistemi\n- Çökmelerde geçerli minidump yazılır (0 KB sorunu bitti)\n- Çökme anında exception ve konum kanıtı kaydedilir\n- Raporlar sonraki girişte otomatik gönderilir\n- Sürüm notları launcher'da otomatik güncellenir\n- Skin kartı ve pin kaydı çökmelere karşı sağlamlaştırıldı\n- 3D model araması game/cs2 yolunu da kapsıyor",
   "content_sha256": "c5523d3b72c11181fdde7888e371464698b9112c449272e777972c8a104fbdf0",
   "content_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.23.3/content.bhp",
   "content_url2": "",
@@ -17,11 +17,11 @@
   "offsets_sha256": "d645d067931ec8eb22be7e3179bf6538b676146786cdbc1865aff6fe05e35a4e",
   "offsets_url": "https://raw.githubusercontent.com/crazyatom173-glitch/bayhosaf-releases/main/offsets.json",
   "offsets_url2": "https://files.catbox.moe/vanyuw.json",
-  "published_at": "2026-11-23T15:04:38Z",
+  "published_at": "2026-11-23T15:10:10Z",
   "schema": 3,
-  "sig": "94ee2f2fe056a4cc37da1a04d7e15ffb4981d16951fda60614d8f771e62473a10ef3f3ee6f6c26464ff8df81ab4f1ee1cd469d72c9250e6756a892d4521d4a148ba71f14baaf871651dd8042b21819357a6c767c08a2e7470049910f3e1572631b2b6f488ebd7f895ef27b3a545b231108a93f3beebaeb279ed5d55c018c783b851c9ef6712a4ebd72cf26da784a6df444a565265ab27416fe5af7e6f242ffffa528ef7f35eb7355cfb797698656bfee1900a4ae9177ad2fee509d9fcab325b5b9445dcae0dfb78920a20397f94088404734b16e61bdf26c548dc366d0d6b6efa3a80cb03ed8918e3eb7c21c4151bd5330f72d06c2a87e624de372a033b02423",
+  "sig": "119000655f4aa9173c6c0dcfe898d4ee11f2cdc418d46de161604dd268d5c2f4bd04cc931d5852145c09f82b98fd14ed4674df771697b62d638571513b966a02e10c57f1fac2a8d33f0d9ccd349dad1424c68b2c834f44d5c6c5deb62269f5396c0405e1f529625360acf3254be692e04b9d1991c7ed539c920e482ee3fcd140f588aeebc7e25963253d9d238db8ae781044f1a3ee39175184fa95fd5e005b60dd091eed301ea1431050ae7773e82829ffb54bc65e5de06ceec6424bbf724dee70af1cbbfef9bf0dc34a181121e9042eb56b1409375d7aea869d73c5f47905e4f4a2177a3cd4c7014525435c792e8cc43357b9146b97a66de794c701ef5cac41",
   "updater_sha256": "ce45264949a1bd3186a37f0540e55ae373eea715ee128d57658a09ab8b605392",
   "updater_url": "https://github.com/crazyatom173-glitch/bayhosaf-releases/releases/download/v11.17.0/BayHosaf_Updater.exe",
   "updater_url2": "",
-  "version": "v11.23.3"
+  "version": "v11.23.7"
 }
